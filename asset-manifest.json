@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/click-game-react/static/css/main.5c3348db.css",
+    "main.js": "/click-game-react/static/js/main.3eaf341f.js",
+    "index.html": "/click-game-react/index.html",
+    "main.5c3348db.css.map": "/click-game-react/static/css/main.5c3348db.css.map",
+    "main.3eaf341f.js.map": "/click-game-react/static/js/main.3eaf341f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c3348db.css",
+    "static/js/main.3eaf341f.js"
+  ]
+}
